@@ -96,6 +96,9 @@ DefaultContentLanguageInSubdir = true
   
   # Enable search in header
   enableSearch = true
+  
+  # Disable date on blog-card
+  disableDateOnBlogCard = false
 
   # Option to customize the search parameters of a page
   # Below are the supported options; Note that including entire content
